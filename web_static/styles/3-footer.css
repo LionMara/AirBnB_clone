@@ -1,6 +1,6 @@
 /*
 =================
-2-footer.css
+3-footer.css
 =================
 */
 
@@ -11,4 +11,8 @@ footer {
     border-top: 1px solid #cccccc;
     position: fixed;
     bottom: 0;
+}
+
+p {
+    text-align: center;
 }
