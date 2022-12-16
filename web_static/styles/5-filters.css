@@ -1,0 +1,65 @@
+/*
+==============================
+styles/5-filters.css
+==============================
+*/
+.filters {
+    height: 70px;
+    width: 100%;
+    border: 1px solid #dddddd;
+    border-radius: 4px;
+    padding: 10px 0;
+}
+
+
+/*
+===================================
+search button
+===================================
+*/
+.button {
+    font-size: 18px;
+    background-color: #ff5a5f;
+    color: #ffffff;
+    height: 48px;
+    width: 20%;
+    border: none;
+    border-radius: 4px;
+    align-items: center;
+    float: right;
+    margin-right: 30px;
+
+}
+
+.button:hover {
+    opacity: 0.9;
+}
+
+/*
+===========================
+Location and Amenities
+===========================
+*/
+
+.amenities, .locations {
+    display: inline-block;
+    height: 100%;
+    width: 25%;
+    font-weight: 600;
+    vertical-align: center;
+    margin-left: 30px;
+    word-wrap: break-word;
+}
+.locations {
+    border-right: 1px solid #ddd;
+}
+h3 {
+    font-weight: 600;
+    margin: 0;
+    padding-bottom: 5px;
+}
+h4 {
+    font-weight: 400;
+    font-size: 14px;
+    margin: 0;
+}
