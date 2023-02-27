@@ -1,0 +1,19 @@
+/* 3-footer.css */
+
+/*
+styles for footer
+*/
+
+footer {
+    background-color: white;
+    height: 60px;
+    width: 100%;
+    border-top: 1px #cccccc;
+    position: absolute;
+    bottom: 0;
+    left: 0;
+}
+.footer-text {
+    vertical-align:center;
+    text-align:center
+}
