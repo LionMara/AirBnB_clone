@@ -1,0 +1,18 @@
+/* 2-footer.css */
+
+/*
+styles for footer
+*/
+
+footer {
+    background-color: #00ff00;
+    height: 60px;
+    width: 100%;
+    position: absolute;
+    bottom: 0;
+    left: 0;
+}
+.footer-text {
+    vertical-align:center;
+    text-align:center
+}
